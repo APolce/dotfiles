@@ -5,3 +5,4 @@ Host caen
 	ControlMaster auto
 	ControlPath _%r@%h:%p
 	ControlPersist 600
+	Compression yes
