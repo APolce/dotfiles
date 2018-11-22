@@ -1,0 +1,7 @@
+# CAEN
+Host caen
+	HostName login.engin.umich.edu
+	User appolce
+	ControlMaster auto
+	ControlPath _%r@%h:%p
+	ControlPersist 600
